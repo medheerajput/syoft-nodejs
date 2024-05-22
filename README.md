@@ -1,6 +1,6 @@
 using env variables
-JWT_SECRET = ""
-MONGODB_URL = ""
+JWT_SECRET = "", 
+MONGODB_URL = "", 
 PORT = ""
 
 Welcome to Our Node.js API Project!
