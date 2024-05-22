@@ -7,7 +7,7 @@ PORT = ""
 
 Welcome to Our Node.js API Project!
 What's This Project About?
-This project is all about creating a powerful backend for your web application. It provides a set of API endpoints that allow users to register, log in, and manage products.
+-This project is all about creating a powerful backend for your web application. It provides a set of API endpoints that allow users to register, log in, and manage products.
 
 Getting Started//
 To get started with the project, followed these simple steps:
