@@ -1,9 +1,7 @@
-<!-- 
 using env variables
 JWT_SECRET = ""
 MONGODB_URL = ""
-PORT = "" 
--->
+PORT = ""
 
 Welcome to Our Node.js API Project!
 What's This Project About?
